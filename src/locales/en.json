@@ -1,0 +1,57 @@
+{
+  "home": {
+    "listen": "Listen to Great Music!",
+    "songs": "Songs"
+  },
+  "song": {
+    "comment_count": "No comments | 1 comment | {count} comments",
+    "latest": "Latest",
+    "oldest": "Oldest",
+    "submit": "Submit"
+  },
+  "register": {
+    "name": "Name",
+    "email": "Email",
+    "age": "Age",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "country": "Country",
+    "usa": "USA",
+    "taiwan": "Taiwan",
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service",
+    "submit": "Submit"
+  },
+  "manage": {
+    "my_songs": "My Songs"
+  },
+  "header": {
+    "about": "About",
+    "login_register": "Login / Register",
+    "header_manage": "Manage",
+    "logout": "Logout"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit"
+  },
+  "auth": {
+    "your_account": "Your Account",
+    "login": "Login",
+    "register": "Register"
+  },
+  "compositionitem": {
+    "song_title": "Song Title",
+    "genre": "Genre",
+    "submit": "Submit",
+    "go_back": "Go Back"
+  },
+  "upload": {
+    "upload": "Upload",
+    "drop": "Drop your files here"
+  }
+}
